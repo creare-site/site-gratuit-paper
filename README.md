@@ -1,38 +1,39 @@
-# [JAMstack Paper Kit](https://jamstack-paper-kit.appseed.us)
+# [Site Gratuit Paper Kit](https://site-gratuit-paper.websitemarket.ro/)
 
-Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of [Paper Kit](https://demos.creative-tim.com/paper-kit/) design.
-
-<br />
-
-![JAMstack Paper Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-paper-kit-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## App Links
-
-- [JAMstack Paper Kit demo](https://jamstack-paper-kit.appseed.us/)
+![Site Gratuit Paper Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-paper-intro.gif)
 
 <br />
 
-## How to use it
+## Informatii produs
 
-- Clone this repo `git clone https://github.com/app-generator/jamstack-paper-kit.git`
-- change directory to `jamstack-paper-kit`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+- Site de prezentare gratuit, design Paper Kit
+- Live [DEMO](https://site-gratuit-paper.websitemarket.ro)
+ 
+<br />
+
+## Utilizare (pentru dezvoltatori)
+
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/site-gratuit-paper.git
+$ cd site-gratuit-paper
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Paper Kit](https://jamstack-paper-kit.appseed.us) - provided by **AppSeed**
+[Site Gratuit Paper Kit](https://site-gratuit-paper.websitemarket.ro/) un produs **WebsiteMarket**
