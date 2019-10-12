@@ -1,4 +1,4 @@
-# [Site Gratuit Paper Kit](https://site-gratuit-paper.websitemarket.ro/)
+# [Site Gratuit Paper Kit](https://websitemarket.ro/site-gratuit/paper/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -11,7 +11,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 ## Informatii produs
 
 - Site de prezentare gratuit, design Paper Kit
-- Live [DEMO](https://site-gratuit-paper.websitemarket.ro)
+- [Site Gratuit Paper DEMO](https://site-gratuit-paper.websitemarket.ro)
  
 <br />
 
@@ -36,4 +36,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Gratuit Paper Kit](https://site-gratuit-paper.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Gratuit Paper Kit](https://websitemarket.ro/site-gratuit/paper/) un produs **WebsiteMarket**
